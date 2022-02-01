@@ -9,7 +9,7 @@ public class PrimeiroPrograma {
     public static void main(String[] args) {
 
         Gato gato = new Gato("Figaro", "Misto", 10);//para importar a classe GATO -- (ALT + ENTER)
-        System.out.println(gato); 
+        System.out.println(gato);
 
 /*        int a = 5;
         int b = 3;
